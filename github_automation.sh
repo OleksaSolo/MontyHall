@@ -6,7 +6,7 @@ set -e
 # Встановлення змінних
 REPO_URL="https://github.com/OleksaSolo/MontyHall.git"
 BRANCH_DEV="dev"
-BRANCH_NEW="new20"
+BRANCH_NEW="new21"
 
 # Переконуємося, що ми на останній версії dev
 git checkout $BRANCH_DEV
