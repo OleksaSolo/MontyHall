@@ -22,3 +22,5 @@ build/
 dist/
 *.egg-info/
 .eggs/
+mytoken.txt
+github_automation.sh
