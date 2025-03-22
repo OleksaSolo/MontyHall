@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Зупиняємо виконання скрипта, якщо трапляється помилка
 set -e
 
@@ -66,3 +64,4 @@ git branch -d $BRANCH_NEW
 git push origin --delete $BRANCH_NEW
 
 echo "Гілка $BRANCH_NEW успішно видалена."
+
